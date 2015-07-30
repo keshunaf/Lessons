@@ -12,4 +12,4 @@
 - get a sticker (have an instructor sign off)
   
 Homework
-- [codecademy.com](codecademy.com) - HTML and CSS
+- [codecademy.com](https://www.codecademy.com) - HTML and CSS
