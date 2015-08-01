@@ -9,7 +9,7 @@ Be mindful, you must write your commands very specificly. The Terminal is an are
 
 #### Notes
 - text within `<>` must be specific to you.
-- branch names must not have spaces use CamelCase or snake_case
+- branch names must not have spaces, please use CamelCase or snake_case
   - CamelCase (capitols at the begining of words with no spaces)
   - snake_case (lowercase with underscores)
 
