@@ -8,6 +8,7 @@
 ## Lessons
 
 ### Aug 1st, 2015
+Note: Stretch challenges are if you have more time and want a larger challenge
 - [Github](https://github.com/blue1647ruby/Github)
 - [CCS](https://github.com/blue1647ruby/CSS_1)
 - [Bragsheet](https://github.com/blue1647ruby/Bragsheet)
