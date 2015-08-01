@@ -55,7 +55,7 @@ I'll say it again, NEVER PUSH TO MASTER
 
 ----------------------------------------------------------------------------------
 
-### Commands that you may use later in class
+### Commands that you may use
 
 #### Commands
 ```
@@ -76,7 +76,7 @@ I'll say it again, NEVER PUSH TO MASTER
 ```
 
 
-### later addition - pull someone else's work
+### Only use on group projects - pull someone else's work
 
 if you want to pull someone else's work follow these steps
 - clone the repo as you would normally
