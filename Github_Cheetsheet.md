@@ -55,7 +55,7 @@ I'll say it again, NEVER PUSH TO MASTER
 
 ----------------------------------------------------------------------------------
 
-### Commands that you may use
+### Commands that you may use later in class
 
 #### Commands
 ```
